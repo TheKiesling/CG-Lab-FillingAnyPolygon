@@ -31,7 +31,7 @@ struct Bitmap{
         drawPolygon1();
         drawPolygon2();
         drawPolygon3();
-        
+        drawPolygon4();
         renderBuffer();
     }
 
