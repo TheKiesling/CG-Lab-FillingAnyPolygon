@@ -29,10 +29,8 @@ struct Bitmap{
         framebuffer.setClearColor(Color(0, 0, 0));
         framebuffer.clear();
         drawPolygon1();
-
-
         drawPolygon2();
-
+        drawPolygon3();
         
         renderBuffer();
     }
